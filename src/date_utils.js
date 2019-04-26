@@ -21,6 +21,20 @@ const month_names = {
         'November',
         'December'
     ],
+    es: [
+        'Enero',
+        'Febrero',
+        'Marzo',
+        'Abril',
+        'Mayo',
+        'Junio',
+        'Julio',
+        'Agosto',
+        'Septiembre',
+        'Octubre',
+        'Noviembre',
+        'Diciembre'
+    ],
     ru: [
         'Январь',
         'Февраль',
@@ -61,7 +75,7 @@ const month_names = {
         'Septembre',
         'Octobre',
         'Novembre',
-        'Decembre'
+        'Décembre'
     ]
 };
 
